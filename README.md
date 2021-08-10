@@ -7,6 +7,9 @@
 ![screenshot](images/screen-16.png)
 
 Additional description about the project and its features.
+### This is a simple say hello web Site
+ - I added the Hello microverse in the h1 tags placed in the index.html file.
+ - Then added test.md and node_modules, to the .gitignore file
 
 ## Built With
 
@@ -21,23 +24,8 @@ Additional description about the project and its features.
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
-
-## Authors
 
 👤 **Author1**
 
@@ -47,8 +35,6 @@ To get a local copy up and running follow these simple example steps.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
