@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My portfolio mobile version
+# `My portfolio mobile version`
 
-> One paragraph statement about the project.
 
 ![screenshot](images/my-portfolio-1.png)
 
