@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Say Hello Microverse
+# `My portfolio mobile version`
 
-> One paragraph statement about the project.
 
-![screenshot](images/screen-16.png)
+![screenshot](images/my-portfolio-1.png)
 
 Additional description about the project and its features.
 ### This is a simple say hello web Site
- - I added the Hello microverse in the h1 tags placed in the index.html file.
+ - I added the Hmtl, csll and linters.
+ - I parsed the figma design to get the design data.
  - Then added test.md and node_modules, to the .gitignore file
 
 ## Built With
@@ -20,8 +20,7 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To set up locally on your machine `Git pull` then open the file on your browser.
 
 
 
