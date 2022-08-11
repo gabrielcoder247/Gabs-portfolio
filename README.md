@@ -6,10 +6,10 @@
 ![screenshot](images/my-portfolio-1.png)
 
 Additional description about the project and its features.
-### This is a simple say hello web Site
- - I added the Hmtl, csll and linters.
+### This is my Portfolio mobile website
+ - I added the Hmtl, css and linters.
  - I parsed the figma design to get the design data.
- - Then added test.md and node_modules, to the .gitignore file
+
 
 ## Built With
 
