@@ -7,7 +7,7 @@
 
 Additional description about the project and its features.
 ### This is my Portfolio mobile website
- - I added the Hmtl, css and linters.
+ - I added the Html, css and linters.
  - I parsed the figma design to get the design data.
 
 
