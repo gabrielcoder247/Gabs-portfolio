@@ -6,10 +6,10 @@
 ![screenshot](images/my-portfolio-1.png)
 
 Additional description about the project and its features.
+
 ### This is my Portfolio mobile website
  - I added the Html, css and linters.
  - I parsed the figma design to get the design data.
-
 
 ## Built With
 
